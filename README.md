@@ -13,8 +13,10 @@ Solution to code signal problems in JavaScript.
 
 - [6 sort numerical values in js](./intro/06-makeArrayConsecutive2/6.js)
   - `nums.sort((a, b) => a - b);`
-- 7?? why 
-- 
+- 7 don't fully get it yet
+- 13 substring reversal and "..." syntax in JS is killing me
+
+
 
 
 # Reference
