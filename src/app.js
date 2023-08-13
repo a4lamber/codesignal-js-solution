@@ -73,3 +73,10 @@ for (let shit of Object.values(person)) {
 
 console.log(person['first']);
 console.log(!(person['pig']));
+
+const nums = [-1, 150, 190, 170, -1, -1, 160, 180];
+
+const height = nums.filter(num => num !== -1);
+
+console.log(height);
+
